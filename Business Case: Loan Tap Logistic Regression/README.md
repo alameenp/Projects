@@ -18,7 +18,7 @@ Given a set of attributes for an Individual, determine if a credit line should b
 
 ### Data dictionary:
 
-1	1loan_amnt : The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.\n
+1	1loan_amnt : The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.\\
 2	term : The number of payments on the loan. Values are in months and can be either 36 or 60.
 3	int_rate : Interest Rate on the loan
 4	installment : The monthly payment owed by the borrower if the loan originates.
